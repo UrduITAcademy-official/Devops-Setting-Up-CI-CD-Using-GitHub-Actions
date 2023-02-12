@@ -1,5 +1,6 @@
 # How to build a CI/CD pipeline with GitHub Actions in four simple steps
 
+![ci-cd-github-actions_cleanup](https://user-images.githubusercontent.com/71556060/218315416-1c645da3-8f09-4cf7-886f-264aa89c1c1e.png)
 GitHub Actions has made it easier than ever to build a secure continuous integration and continuous delivery (CI/CD) pipeline for your GitHub projects. By integrating your CI/CD pipeline and GitHub repository, GitHub Actions allows you to automate your build, test, and deployment pipeline.
 
 
