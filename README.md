@@ -1,4 +1,4 @@
-# How to build a CI/CD pipeline with GitHub Actions in four simple steps
+# How to build a CI/CD pipeline with GitHub Actions in simple steps
 
 ![ci-cd-github-actions](https://user-images.githubusercontent.com/71556060/218315445-b265e63b-3bd4-4d94-9253-7d4c483408c5.png)
 
