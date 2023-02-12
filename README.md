@@ -72,7 +72,7 @@ tar xzf ./actions-runner-osx-x64-2.301.1.tar.gz
 ```
 ./config.sh --url https://github.com/SyedAsadRazaDevops/<REPO NAME> --token <xxxxxxxxxxxxxxx>
 ```
-"Must not run with sudo while trying to create a runner using github-actions"
+ERROR: "Must not run with sudo while trying to create a runner using github-actions"
 ![1502 (1)](https://user-images.githubusercontent.com/71556060/218314246-beaac109-691e-4deb-a362-972c4230a73f.png)
 
 SOLUTION:
