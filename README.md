@@ -92,7 +92,9 @@ After you push or merge to main branch, you can check the build under the Action
 
 <img width="1395" alt="Screenshot 2023-02-12 at 6 54 40 PM" src="https://user-images.githubusercontent.com/71556060/218315198-17cd6613-dc7e-4886-95bd-7ff855de5581.png">
 
+### Summing Up
 
+Unlike some others, GitHub Actions is an invaluable tool when it comes to automation. The GitHub Marketplace is very rich. There are many actions available for doing almost anything.
 
 
 
